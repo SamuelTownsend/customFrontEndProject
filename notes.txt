@@ -1,0 +1,10 @@
+GOALS TO ACCOMPLISH
+
+Full project link: https://github.com/bradtraversy/devconnector
+
+1. Create backend API with Node/Express
+2. Test with Postman
+3. Explore the bootstrap theme
+4. Implement react and connect with backend
+5. Implement Redux for state management
+6. Prepare, build, and deploy to Heroku
